@@ -1,4 +1,5 @@
 x <- "Hola Mundo"
 x
 
-y <- x + "aqui estoy"
+y <- paste(x, "aqui estoy")
+y
